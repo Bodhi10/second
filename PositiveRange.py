@@ -1,6 +1,3 @@
-list1=[12,-7,5,64,-14]
-lst = []
-
 list1 = []
 n = int(input("Enter number of elements : "))
 for i in range(0, n):
